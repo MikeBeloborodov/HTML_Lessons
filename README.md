@@ -3,7 +3,7 @@ Link to the video:
 <br>https://www.youtube.com/watch?v=kUMe1FH4CHE<br>
 Validate your HTML:
 <br>https://validator.w3.org
-<br>
+<br><br>
 Image related resources:
 <br>Placeholder Image Generators:
 <br>https://loremipsum.io/21-of-the-best-...
